@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 22px/1.6 $helvetica;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   color: $darkerGray;
   font-weight: bold;
   
@@ -113,6 +113,10 @@ img {
 .date {
   font-style: italic;
   color: $gray;
+  small {
+    font-size: 80%;
+    padding-left: 2em;
+  }
 }
 
 // Specify the color of the selection

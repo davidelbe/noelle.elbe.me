@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
 
-Some information about you!
+Jag är en liten och ganska snygg tjej som vet precis vad jag vill ibland.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Det jag skriver här är mest på skoj (min advokat fick mig att lägga till det där sista).
