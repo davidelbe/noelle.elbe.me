@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: noElLes BlOgG
+name: Noelles blogg
 
 # Short bio or description (displayed in the header)
 description: Bloggande bebis
@@ -29,7 +29,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: 
+disqus: noellesblogg
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
